@@ -40,12 +40,12 @@ for the frontend and SQL for data storage.
 
 ## Team Members
 Our team was composed of: 
-1. Andreescu Andrei Valerian - 325CC
-2. Andronache Mădălina-Georgiana - 322CC
-3. Mihai Bianca-Ioana - 322CC
-4. Tarău Alexandru-Bogdan - 322CC
+1. Andreescu Andrei Valerian
+2. Andronache Mădălina-Georgiana
+3. Mihai Bianca-Ioana
+4. Tarău Alexandru-Bogdan
 
-### 1. Andreescu Andrei Valerian - 325CC
+### 1. Andreescu Andrei Valerian
    - **Contributions:**
      - Implemented the Wordle Game.
      - Designed and implemented the scoring system of the Wordle Game.
@@ -58,7 +58,7 @@ Our team was composed of:
      - arranging the components on the  game board, particularly in terms of layout 
 design and gameplay mechanics.
      
-### 2. Andronache Mădălina-Georgiana - 322CC
+### 2. Andronache Mădălina-Georgiana
    - **Contributions:**
      - Implemented the main menu and game selection functionality.
      - Used Pygame for the frontend of the main menu.
@@ -71,7 +71,7 @@ design and gameplay mechanics.
      - Changing the angle of the ball after each restart of the game.
      - Having a scoring system.
      
-### 3. Mihai Bianca-Ioana - 322CC
+### 3. Mihai Bianca-Ioana
    - **Contributions:**
      - Implemented the Capture the Cat Game.
      - Designed and implemented the scoring system of the Capture the Cat Game.
@@ -82,7 +82,7 @@ design and gameplay mechanics.
      - Conceptualizing the application's operational mode
      - Establishing seamless connections between the individual games and the main menu
      
-### 4. Tarău Alexandru-Bogdan - 322CC
+### 4. Tarău Alexandru-Bogdan
    - **Contributions:**
      - Implemented the Turtle Warrior Game.
      - Designed and implemented the scoring system of the Turtle Warrior Game.
